@@ -16,5 +16,14 @@
     
  Images of the Project:-
  
+ # Start Page
+
+![Intro](https://github.com/dev-bot1/Discord-Rooms/blob/main/images/Discord%20Rooms(1).PNG)
+
+ #Talk Page
+
+![Talk Here](https://github.com/dev-bot1/Discord-Rooms/blob/main/images/Discord%20rooms%202.PNG)
+
+ 
  
  
